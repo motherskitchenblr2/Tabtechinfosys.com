@@ -1,4 +1,5 @@
-
+- name: Neon Create Branch GitHub Action
+  uses: neondatabase/create-branch-action@v6.1.0
 
 name: Create/Delete Branch for Pull Request
 
